@@ -1,5 +1,3 @@
-# Ümit Duman
-
 From backend developer to AI researcher. Building analytical alternatives to backpropagation.
 
 ## Original Contributions
@@ -20,13 +18,6 @@ From backend developer to AI researcher. Building analytical alternatives to bac
 Transformer optimization · Gradient-free learning · CPU-first AI training · Small language models (SLM)
 
 ## Repositories
-
-| Repo | Description |
-|------|-------------|
-| [proploss-classifier](https://github.com/umiteknoloji/proploss-classifier) | Multi-layer gradient-free classifier (PyPI package) |
-| [backloss-for-classifier](https://github.com/umiteknoloji/backloss-for-classifier) | BackLoss MNIST 99.77% — World #7 |
-| [GPT_at_CPU](https://github.com/umiteknoloji/GPT_at_CPU) | Shakespeare GPT trained in 120s on CPU |
-
----
+ 
 
 *"Intelligence is sometimes simplicity. My formula proves it."*
